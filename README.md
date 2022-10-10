@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [](https://github.com/nabilfikrisp/frontendmentor-product-card)
-- Live Site URL: [](https://frontendmentor-product-card.vercel.app/)
+- Solution URL: [My Github](https://github.com/nabilfikrisp/frontendmentor-product-card)
+- Live Site URL: [Vercel](https://frontendmentor-product-card.vercel.app/)
 
 ## My process
 
