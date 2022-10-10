@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./desktop-screenshot.png)
-![](./mobile-screenshot.png)
+![Desktop View](https://raw.githubusercontent.com/nabilfikrisp/frontendmentor-product-card/master/images/desktop-screenshot.png)
+![Mobile View](https://raw.githubusercontent.com/nabilfikrisp/frontendmentor-product-card/master/images/mobile-screenshot.jpg)
 
 
 
