@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop View](https://github.com/nabilfikrisp/frontendmentor-product-card/blob/master/images/desktop-screenshot.png)
-![Mobile View](https://github.com/nabilfikrisp/frontendmentor-product-card/blob/master/images/mobile-screenshot.jpg)
+![Desktop View](https://raw.githubusercontent.com/nabilfikrisp/frontendmentor-product-card/master/images/desktop-screenshot.png)
+![Mobile View](https://raw.githubusercontent.com/nabilfikrisp/frontendmentor-product-card/master/images/mobile-screenshot.jpg)
 
 
 
